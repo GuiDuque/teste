@@ -1,3 +1,7 @@
+//3742.Feynman.c
+//spoj... solução de presente para vc ^^
+// \o
+
 #include <stdio.>
 
 int main ()
